@@ -20,8 +20,8 @@ export function UserProvider(props) {
             setUser(null);
         } else {
             setUser({
-                name: 'Luis',
-                email: 'luis@mail.com'
+                name: 'Juan',
+                email: 'juan@cac.com.ar'
             });
         }
     }
